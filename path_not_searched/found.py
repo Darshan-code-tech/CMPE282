@@ -3,3 +3,5 @@ def found_file():
 
 a = 5
 print(a.bit_length())
+
+found_file()
